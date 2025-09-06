@@ -9,4 +9,7 @@ Problem Statement :
 I am an underwriter trying to make the loan approval decision, but I need to go through multiple documents to gather the relevant insights, 
 because of which I end up spending more than 4 hours on making the lending decision which makes me feel less productive and frustrated
 
+Objective :
+Prepare a Product Strategy to solve this problem with user experiece and designs.
+
 
